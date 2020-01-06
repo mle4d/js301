@@ -50,7 +50,7 @@ h1 {
 .playing {
   transform: scale(1.1);
   border-color: #f5e4dc;
-  box-shadow: 0 0 1rem #9ec4c5;
+  box-shadow: 0 0 1rem #ffffff;
 }
 
 kbd {
